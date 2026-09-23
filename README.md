@@ -1,4 +1,4 @@
-# Student Burnout — Regularized Regression Lab 2
+# Student Burnout - Regularized Regression Lab 2
 
 **Topic:** Regularized Regression using Lasso and Ridge with Cross-Validation and Grid Search
 
